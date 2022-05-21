@@ -1,6 +1,6 @@
 ## Description
 
-This repository is showcasing how to create a minimal Nest.js project from scratch without using the Nest CLI / Scaffolding options.
+This repository showcases how to create a minimal Nest.js project from scratch without using the Nest CLI / Scaffolding options.
 
 ## Installation
 
